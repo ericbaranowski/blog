@@ -1,29 +1,22 @@
----
-title: About me
-date: 2019-01-01T08:55:31+08:00
-url: /about/
----
++++
+title = "About"
+date = "2019-01-25"
+author = "Radek"
++++
 
+# Hi there
 
-<p class="message">
-Hello, My Name is Eric Baranowski，I do lots of things.
-</p>
+My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
 
+We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
 
-### My skills
+This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
 
- * Preferred Programming languages：Python, Rust, Go, Javasript (Vue)
- * Business and process design/management
- * Developing next-gen solutions through bleeding-edge tech resources
+The theme includes:
 
+- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
+- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
+- **realy nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
+- mobile friendly layout
 
-### Some of the links
-
- * My blog:[ericbaranowski.netlify.com](http://ericbaranowski.netlify.com)
- * Twitter：[twitter.com/KuladoInc](https://twitter.com/KuladoInc)
- * Github: [github.com/ericbaranowski](https://github.com/ericbaranowski)
- * Email：eric@ericbaranowski.com(eric@doteric.com)
-
-### Statement
-
-This blog All articles are all original. Reprint please indicate the original link, and with the best person to contact. Thank you!
+So, there you have it... enjoy!

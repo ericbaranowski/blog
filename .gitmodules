@@ -1,0 +1,9 @@
+[submodule "src/themes/bulma"]
+	path = src/themes/bulma
+	url = https://github.com/jeblister/bulma
+[submodule "src/themes/terminal"]
+	path = src/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal
+[submodule "src/themes/hugo-theme-terminal"]
+	path = src/themes/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal
